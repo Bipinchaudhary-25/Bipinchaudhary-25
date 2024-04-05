@@ -55,13 +55,9 @@ I'm Bipin Chaudhary a Full Stack Web Developer and Content Creator and I Spend m
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV](***********)
+- :email: bipinchaudhary7037@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 <details>
 <summary>
