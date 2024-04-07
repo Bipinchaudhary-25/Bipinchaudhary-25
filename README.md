@@ -16,7 +16,7 @@ I'm Bipin Chaudhary a Full Stack Web Developer and Content Creator and I Spend m
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: bipinchaudhary7037@gmail.com.
-- 😄 Pronouns: _bipin_chaudhary_6 , Bipin_Chaudhary , Bipin06.
+- 😄 Pronouns: _bipin_chaudhary_6 , Bipinch_25.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
