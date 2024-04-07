@@ -66,11 +66,11 @@ I'm Bipin Chaudhary a Full Stack Web Developer and Content Creator and I Spend m
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love sharing knowledge and putting tutorials and posts together for helping other Viewers, and tjat's why DevDazzle. Youtube Channel exists!
 
 #### What is CoderOne?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+DevDazzle. is a youtube channel for learning Web development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
