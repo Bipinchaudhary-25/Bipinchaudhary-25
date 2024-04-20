@@ -41,7 +41,7 @@ I'm Bipin Chaudhary a Frontend Developer and Content Creator and I Spend most of
 
 I love sharing knowledge and putting tutorials and posts together for helping other Viewers, and tjat's why DevDazzle. Youtube Channel exists!
 
-#### What is CoderOne?
+#### What is DevDazzle?
 
 DevDazzle. is a youtube channel for learning Web development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
