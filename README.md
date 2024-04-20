@@ -26,7 +26,6 @@ I'm Bipin Chaudhary a Frontend Developer and Content Creator and I Spend most of
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&labelColor=black)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PYTHON Badge](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&labelColor=black
 )](#)
 <br />
-<br />
 
 #### Bizness
 - :paperclip: [My Resume/CV](***********)
