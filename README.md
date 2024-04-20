@@ -5,10 +5,11 @@ I'm Bipin Chaudhary a Frontend Developer and Content Creator and I Spend most of
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Bipinch_25-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Bipinch_25)](https://twitter.com/BipinCh_25) [![Mail Badge](https://img.shields.io/badge/-DevDazzel.-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/DevDazzle.) [![Linkedin Badge](https://img.shields.io/badge/-bipin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BipinChaudhary/) [![Mail Badge](https://img.shields.io/badge/-@_Bipin_chaudhary_6-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_bipin_chaudhary_6) [![Mail Badge](https://img.shields.io/badge/-bipinchaudhary-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bipinchaudhary7037@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Bipinch_25-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Bipinch_25)](https://twitter.com/BipinCh_25) [![Mail Badge](https://img.shields.io/badge/-DevDazzel.-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/DevDazzle.) [![Linkedin Badge](https://img.shields.io/badge/-bipin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-chaudhary-06b6242a5) [![Mail Badge](https://img.shields.io/badge/-@_Bipin_chaudhary_6-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_bipin_chaudhary_6) [![Mail Badge](https://img.shields.io/badge/-bipinchaudhary-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bipinchaudhary7037@gmail.com)
 
 
 <!-- TODO: Add last video link -->
+
 
 ### What I currently Do
 
